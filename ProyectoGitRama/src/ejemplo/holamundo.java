@@ -6,5 +6,9 @@ public class holamundo {
 		System.out.println("Hola mundo");
 
 	}
+	
+	public static void imprimeSaludo() { 
+		System.out.println(“Hei”);    
+	}
 
 }
